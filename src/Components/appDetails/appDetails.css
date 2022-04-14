@@ -1,0 +1,23 @@
+
+.appDetails{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.details-page{
+    text-align: left;
+}
+.desc{
+    width: 600px;
+    font-weight: 500;
+    color: rgb(61, 59, 59);
+    padding-bottom: 1rem;
+}
+.feature{
+    padding: 5px 10px;
+    border: none;
+    background-color: rgb(235, 241, 241);
+    margin-left: 8px;
+    border-radius: 12px;
+    color: rgb(61, 59, 59);
+}
